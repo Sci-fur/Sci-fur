@@ -300,9 +300,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sci-fur/Sci-fur/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
-</p>
 
 ## 📫 Connect with Me
 
