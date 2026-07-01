@@ -300,13 +300,6 @@
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/Sci-fur?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sci-fur&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sci-fur/Sci-fur/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
 </p>
