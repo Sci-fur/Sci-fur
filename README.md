@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Saifur+Rahman" alt="Saifur" /></a>
-  <a href="https://github.com/Sci-fur/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Node.js%2FExpress%2FMongoDB;Docker+%7C+Kubernetes+%7C+GitHub+Actions;Competitive+Programmer+%7C+ICPC+Participant;Always+building+%26+learning&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Saifur+Rahman" alt="Saifur" /></a>
+  <a href="https://github.com/Sci-fur/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Node.js%2FExpress%2FMongoDB;Docker+%7C+Kubernetes+%7C+GitHub+Actions;Competitive+Programmer+%7C+ICPC+Participant;Always+building+%26+learning&font=Fira+Code&center=true&width=660&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <p align="center">
